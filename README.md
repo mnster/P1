@@ -1,2 +1,3 @@
 # master
-Esta es la línea principal del código, en donde se encuentre el código principal.
+Es aquí donde se encuentran los cambios revisados e implementados del sistema, así la rama principal.
+
